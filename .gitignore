@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+# bộ đề và đáp án sinh ra - không đưa lên repo
+lab-*/
+lop-*/
+de-*/
+dap-an*.md
+dap-an*.json
+bang-theo-doi*.csv
+fixtures/
+hocvien.txt
+
+.venv/
+.idea/
+.vscode/
+.DS_Store
